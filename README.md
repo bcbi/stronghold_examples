@@ -2,7 +2,7 @@
 
 Example scripts of how to do things inside Stronghold
 
-This repo lives /data/git. To modify them, you clone the repo to your home directory. That way, you can always pull in new changes
+This repo lives /data/git. To modify them, clone the repo to your home directory. That way, you can always pull in new changes
 
 ```
 cd ~
