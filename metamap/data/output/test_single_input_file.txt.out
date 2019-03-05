@@ -1,0 +1,40 @@
+1|MMI|14.64|Infant, Newborn|C0021289|[aggp]|["NEWBORN"-tx-1-"NEWBORN"-noun-0]|TX|0/7|M01.060.703.520
+1|MMI|5.18|Neonatal (qualifier value)|C2939425|[tmco]|["Newborn"-tx-1-"NEWBORN"-noun-0]|TX|0/7|
+1|MMI|5.18|Newborn (finding)|C2239178|[fndg]|["Newborn, NOS"-tx-1-"NEWBORN"-noun-0]|TX|0/7|
+2|MMI|11.49|Hypotension|C0020649|[fndg]|["HYPOTENSION"-tx-1-"HYPOTENSION"-noun-0]|TX|0/11|C14.907.514
+2|MMI|5.18|Hypotension, CTCAE|C3163620|[fndg]|["Hypotension"-tx-1-"HYPOTENSION"-noun-0]|TX|0/11|
+3|MMI|14.64|Dehydration|C0011175|[dsyn]|["DEHYDRATION"-tx-1-"DEHYDRATION"-noun-0]|TX|6/11|C18.452.950.179;C23.550.274
+3|MMI|14.64|Fever|C0015967|[sosy]|["FEVER"-tx-1-"FEVER"-noun-0]|TX|0/5|C23.888.119.344
+3|MMI|11.49|Failure to Thrive|C0015544|[dsyn]|["FAILURE TO THRIVE"-tx-1-"FAILURE TO THRIVE"-noun-0]|TX|18/17|C23.888.338
+3|MMI|5.18|Dehydration procedure|C4284399|[lbpr]|["Dehydration"-tx-1-"DEHYDRATION"-noun-0]|TX|6/11|
+3|MMI|5.18|Failure to thrive in infant|C3887638|[dsyn]|["Failure to Thrive"-tx-1-"FAILURE TO THRIVE"-noun-0]|TX|18/17|
+3|MMI|5.18|Fever symptoms (finding)|C0424755|[fndg]|["Fever"-tx-1-"FEVER"-noun-0]|TX|0/5|
+3|MMI|5.18|Fever, CTCAE|C4552740|[fndg]|["Fever"-tx-1-"FEVER"-noun-0]|TX|0/5|
+3|MMI|5.18|Pediatric failure to thrive|C2315100|[dsyn]|["Failure to Thrive"-tx-1-"FAILURE TO THRIVE"-noun-0]|TX|18/17|
+4|MMI|14.64|Infant, Newborn|C0021289|[aggp]|["NEWBORN"-tx-1-"NEWBORN"-noun-0]|TX|0/7|M01.060.703.520
+4|MMI|5.18|Neonatal (qualifier value)|C2939425|[tmco]|["Newborn"-tx-1-"NEWBORN"-noun-0]|TX|0/7|
+4|MMI|5.18|Newborn (finding)|C2239178|[fndg]|["Newborn, NOS"-tx-1-"NEWBORN"-noun-0]|TX|0/7|
+5|MMI|22.48|Kidney Failure, Chronic|C0022661|[dsyn]|["CHRONIC RENAL FAILURE"-tx-1-"CHRONIC RENAL FAILURE"-noun-0]|TX|0/21|C12.777.419.780.750.500;C13.351.968.419.780.750.500
+5|MMI|19.33|Chronic Kidney Diseases|C1561643|[dsyn]|["Chronic Renal Failure"-tx-1-"CHRONIC RENAL FAILURE"-noun-0]|TX|0/21|C12.777.419.780.750;C13.351.968.419.780.750
+5|MMI|3.61|B4GALNT2 gene|C1428349|[gngm]|["Sda"-tx-1-"SDA"-noun-0]|TX|22/3|
+5|MMI|3.61|Sialodacryoadenitis of rat|C0276477|[dsyn]|["SDA"-tx-1-"SDA"-noun-0]|TX|22/3|
+5|MMI|3.61|Strand Displacement Amplification|C1553165|[lbpr]|["SDA"-tx-1-"SDA"-noun-0]|TX|22/3|
+5|MMI|3.55|Chronic kidney disease stage 5|C2316810|[dsyn]|["Chronic renal failure"-tx-1-"CHRONIC RENAL FAILURE"-noun-0]|TX|0/21|
+6|MMI|14.64|Infant, Newborn|C0021289|[aggp]|["NEWBORN"-tx-1-"NEWBORN"-noun-0]|TX|0/7|M01.060.703.520
+6|MMI|5.18|Neonatal (qualifier value)|C2939425|[tmco]|["Newborn"-tx-1-"NEWBORN"-noun-0]|TX|0/7|
+6|MMI|5.18|Newborn (finding)|C2239178|[fndg]|["Newborn, NOS"-tx-1-"NEWBORN"-noun-0]|TX|0/7|
+7|MMI|14.64|Infant, Newborn|C0021289|[aggp]|["NEWBORN"-tx-1-"NEWBORN"-noun-0]|TX|0/7|M01.060.703.520
+7|MMI|5.18|Neonatal (qualifier value)|C2939425|[tmco]|["Newborn"-tx-1-"NEWBORN"-noun-0]|TX|0/7|
+7|MMI|5.18|Newborn (finding)|C2239178|[fndg]|["Newborn, NOS"-tx-1-"NEWBORN"-noun-0]|TX|0/7|
+8|MMI|16.30|Cerebrovascular accident|C0038454|[dsyn]|["CVA, NOS"-tx-1-"CVA"-noun-0]|TX|12/3|C10.228.140.300.775;C14.907.253.855
+8|MMI|3.50|Hemorrhagic|C0333275|[qlco]|["Hemorrhagic"-tx-1-"HEMORRHAGIC"-adj-0]|TX|0/11|
+9|MMI|14.64|Infant, Newborn|C0021289|[aggp]|["NEWBORN"-tx-1-"NEWBORN"-noun-0]|TX|0/7|M01.060.703.520
+9|MMI|5.18|Neonatal (qualifier value)|C2939425|[tmco]|["Newborn"-tx-1-"NEWBORN"-noun-0]|TX|0/7|
+9|MMI|5.18|Newborn (finding)|C2239178|[fndg]|["Newborn, NOS"-tx-1-"NEWBORN"-noun-0]|TX|0/7|
+10|MMI|5.18|Mass lesion of brain|C0742078|[dsyn]|["Brain Mass"-tx-1-"BRAIN MASS"-noun-0]|TX|0/10|
+11|MMI|13.00|Pancreatic carcinoma|C0235974|[neop]|["PANCREATIC CANCER"-tx-1-"PANCREATIC CANCER"-noun-0]|TX|0/17|x.x.x.x
+11|MMI|3.63|B4GALNT2 gene|C1428349|[gngm]|["Sda"-tx-1-"SDA"-noun-0]|TX|18/3|
+11|MMI|3.63|Sialodacryoadenitis of rat|C0276477|[dsyn]|["SDA"-tx-1-"SDA"-noun-0]|TX|18/3|
+11|MMI|3.63|Strand Displacement Amplification|C1553165|[lbpr]|["SDA"-tx-1-"SDA"-noun-0]|TX|18/3|
+11|MMI|3.53|Malignant neoplasm of pancreas|C0346647|[neop]|["Pancreatic Cancer"-tx-1-"PANCREATIC CANCER"-noun-0]|TX|0/17|
+11|MMI|3.53|Pancreatic Cancer Pathway|C2984259|[ftcn]|["Pancreatic cancer"-tx-1-"PANCREATIC CANCER"-noun-0]|TX|0/17|
